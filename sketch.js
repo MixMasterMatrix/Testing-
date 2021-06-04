@@ -577,7 +577,7 @@ function draw() {
   }
 
   drawSprites()
-  text(mouseX + ", " + mouseY, mouseX, mouseY);
+//  text(mouseX + ", " + mouseY, mouseX, mouseY);
 }
 
 
